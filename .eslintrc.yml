@@ -6,6 +6,8 @@ parser: babel-eslint
 extends:
   - airbnb
   - airbnb/hooks
+  - plugin:prettier/recommended
+  - prettier/react
 
 env:
   browser: true
