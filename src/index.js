@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom'
 
-const Main = () => <div>Hello</div>
+const Main = () => <div>test</div>
 
 ReactDOM.render(<Main />, document.getElementById('root'))
