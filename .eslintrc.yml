@@ -118,6 +118,8 @@ rules:
   react/require-default-props: off
   react/state-in-constructor: off
   react/static-property-placement: off
+  react/jsx-uses-react: off
+  react/react-in-jsx-scope: off
   # import
   import/no-extraneous-dependencies: [error, { devDependencies: true }]
   import/no-dynamic-require: warn
